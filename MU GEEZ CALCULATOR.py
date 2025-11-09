@@ -9,8 +9,8 @@ history = []
 memory = 0.0
 
 # Arithmetic functions
-def Addition(a, c): 
-    return a + c
+def Addition(a, k):
+    return a + k
 def Subtraction(a, c): 
     return a - c
 def Multiplication(a, c): 
